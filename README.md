@@ -1,1 +1,1 @@
-# automatic weed detection system using computer vision and robotics
+uses computer vision and robotics
